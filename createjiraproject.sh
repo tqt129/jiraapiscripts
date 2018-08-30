@@ -1,8 +1,7 @@
 #!/bin/bash
 
-QAURL="http://devjira.cnvrmedia.net/rest/api/latest/issue/"
-PRODURL="https://jira.cnvrmedia.net/rest/api/latest/issue/"
-
+QAURL="http://URL/rest/api/latest/issue/"
+PRODURL="https://URL/rest/api/latest/issue/"
 
 USERNAME="INSERT"
 PASSWORD="COIN"
